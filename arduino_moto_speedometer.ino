@@ -3,7 +3,6 @@
 //                                   Adrian Jones, February 2015
 //
 //Initial idea by http://www.instructables.com/id/Custom-Large-Font-For-16x2-LCDs/step5/Arduino-Sketch/
-//**************************************************************************************************
 //********************************************************************************************
 #include <Wire.h> 
 #include <LCD.h>                     // Standard lcd library
